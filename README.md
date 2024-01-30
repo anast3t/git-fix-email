@@ -17,3 +17,8 @@ Run script and add `**/.DS_Store` in `.gitignore`.
 Commit and push changes.
 
 Based on - <https://stackoverflow.com/a/38797342/19638034>
+
+## 3. pretty_log 
+Shows beautiful commit tree
+
+Based on - <https://git-scm.com/docs/pretty-formats>
