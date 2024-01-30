@@ -1,7 +1,7 @@
-## 1. fix_email
-Fixes wrong email in git commits creating new history.
+## 1. change_identity
+Changes identity in git commits creating new history.
 
-In shell script set your wrong email, correct username and correct email.
+In shell script set your old email, correct username and correct email.
 
 To push new commit history run:
 ```git push --force-with-lease --tags origin 'refs/heads/*'```
